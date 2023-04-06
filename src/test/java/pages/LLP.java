@@ -4,6 +4,6 @@ public class LLP {
 
 	
 	public static void main(String[] args) {
-		System.out.println("S");
+		System.out.println("Sss");
 	}
 }
